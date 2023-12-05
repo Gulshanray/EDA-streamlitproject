@@ -28,10 +28,10 @@ I’m looking forward to exploring more ways to leverage Streamlit in the future
 
 ## Authors
 
-- [@bhavesh](https://github.com/bhaveshk22)
+- [@Gulshan kumar](https://github.com/bhaveshk22)
 
 
-# Hi, I'm Bhavesh! 👋
+# Hi, I'm Gulshan Kumar! 👋
 
 
 ## 🚀 About Me
@@ -53,7 +53,7 @@ I'm a Full Stack Data Scientist
 ## Summary of My Journey
 👩‍💻 I'm currently a student
 
-🧠 Btech Computer Science
+🧠 Deploma Computer Science
 
 💬 more details loading
 

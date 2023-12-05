@@ -28,7 +28,7 @@ I’m looking forward to exploring more ways to leverage Streamlit in the future
 
 ## Authors
 
-- [@Gulshan kumar](https://github.com/bhaveshk22)
+- [@Gulshan kumar](https://github.com/Gulshanray)
 
 
 # Hi, I'm Gulshan Kumar! 👋
@@ -39,7 +39,7 @@ I'm a Full Stack Data Scientist
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kabdwal-6ba30a25b)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 ## 🛠 Skills

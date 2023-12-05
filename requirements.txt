@@ -1,9 +1,4 @@
 Numpy
 Pandas
 Matplotlib
-Seaborn
-Sklearn
-LogisticRegression
-Naive_Bayes
-Support-Vector-Machines
-K-Nearest-Neighbors
+

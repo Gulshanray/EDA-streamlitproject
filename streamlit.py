@@ -152,8 +152,8 @@ def main():
             st.write('Accuracy for model: ',accuracy)
 
     if options == 'About Us':
-        st.markdown(' This is an interactive web page, feel free to use it')
-        st.sidebar.write('Author: Bhavesh Kabdwal')
+        st.markdown(' This is an interactive web page')
+        st.sidebar.write('Author: Gulshan Kumar')
         st.balloons()
 
 

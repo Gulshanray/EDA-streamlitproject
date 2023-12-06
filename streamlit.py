@@ -14,7 +14,7 @@ from sklearn import model_selection
 from PIL import Image
 
 #set title
-st.title('First ML APP')
+st.title('ML Insights: Your Data, Our Predictions')
 
 
 def main():

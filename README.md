@@ -9,7 +9,7 @@ This repository contains a 'Streamlit Model Deployment' project. It showcases ho
 
 
 ![app_screenshot](https://github.com/bhaveshk22/Project---ModelDeployment_Streamlit/assets/141263853/1f54f921-60e5-4b40-9df7-7ed2357bd0bb)
-
+![app_screenshot](https://github.com/Gulshanray/EDA-streamlitproject/blob/main/app_screenshot.png)
 
 
 ## Roadmap

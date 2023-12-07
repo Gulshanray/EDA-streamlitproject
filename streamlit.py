@@ -14,7 +14,7 @@ from sklearn import model_selection
 from PIL import Image
 
 #set title
-st.title(' Your Data, Our Predictions')
+st.title('Your Data, Our Predictions')
 
 
 def main():
